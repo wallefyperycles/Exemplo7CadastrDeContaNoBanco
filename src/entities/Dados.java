@@ -22,7 +22,9 @@ public class Dados {
 	}
 	
 	public String toString() {
-		return   "Nome do usuário: "
+		  
+		return
+				"Nome do usuário: "
 				+name
 				+", Número da conta: "
 				+conta
